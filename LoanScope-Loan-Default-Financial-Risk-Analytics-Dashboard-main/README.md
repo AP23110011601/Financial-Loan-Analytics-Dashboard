@@ -128,23 +128,7 @@ Analysis Includes:
 
 ---
 
-## 🔹 Dashboard 3: Advanced Analytics
 
-
-Advanced Features:
-
-📈 Year-over-Year Loan Growth
-
-📊 Year-to-Date Loan Analysis
-
-🌳 Decomposition Tree Analysis
-
-📌 Credit Score Binning
-
-📌 Income Bracket Segmentation
-
-
----
 
 # 📈 Key Insights Generated
 
@@ -205,22 +189,7 @@ Dataset contains:
 📌 Default Status  
 
 
----
 
-# 📸 Dashboard Preview
-
-
-## Executive Loan Overview
-
-(Add Screenshot Here)
-
-
-## Customer Financial Analysis
-
-(Add Screenshot Here)
-
-
----
 
 # 🚀 How To Run
 
@@ -300,21 +269,8 @@ Through this project, I gained experience in:
 
 ---
 
-## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository
-2. Open it using Microsoft Power BI Desktop
-3. If prompted, update the data source path
-4. Refresh the data to view the latest insights
 
----
-
-## 💡 Key Learnings
-- End-to-end data pipeline using Dataflows  
-- Gateway setup and cloud integration  
-- Writing complex DAX measures  
-- Designing multi-page analytical dashboards  
-- Combining SQL + Power BI for real-world analytics  
 
 ---
 
