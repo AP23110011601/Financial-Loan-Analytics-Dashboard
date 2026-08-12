@@ -1,4 +1,4 @@
-# 🏦 LoanScope — Loan Default & Financial Risk Analytics Dashboard
+##Financial Loan Analytics Dashboard
 
 ## 📌 Overview
 LoanScope is an end-to-end Power BI project designed to analyze loan data, applicant demographics, and default risk patterns.  
