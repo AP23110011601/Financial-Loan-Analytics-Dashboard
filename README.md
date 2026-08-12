@@ -257,22 +257,6 @@ Through this project, I gained experience in:
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
-
-## 📸 Dashboard Preview
-
-### 📊 Dashboard 1
-![Dashboard 1](Dashboard-images/dashboard1.png)
-
-### 📊 Dashboard 2
-![Dashboard 2](Dashboard-images/dashboard2.png)
-
----
-
-
-
-
----
 
 ## 📬 Contact
 Feel free to connect for feedback or collaboration!
